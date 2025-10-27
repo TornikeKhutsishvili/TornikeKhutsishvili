@@ -30,7 +30,7 @@ Always exploring modern technologies 💻.
 
 | GitHub Stats | GitHub Streak |
 |--------------|---------------|
-| ![Tornike's GitHub stats](https://github-readme-stats.vercel.app/api?username=TornikeKhutsishvili&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TornikeKhutsishvili&theme=radical) |
+| ![Tornike's GitHub stats](https://github-readme-stats.vercel.app/api?username=TornikeKhutsishvili&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TornikeKhutsishvili&theme=radical)
 
 ---
 
