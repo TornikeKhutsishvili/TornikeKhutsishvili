@@ -16,13 +16,6 @@ Driven by a desire to deepen my knowledge and apply best practices, I consistent
 - **Other:** Responsive Design, Cross-Browser Compatibility, UI/UX Implementation, Figma → Code translation
 
 ---
-
-### 💼 Projects
-
-<table>
-  <tr>
-    <!-- Projects Column -->
-    <td valign="top" width="50%">
       
 ### 💼 Projects
 
@@ -34,20 +27,11 @@ Driven by a desire to deepen my knowledge and apply best practices, I consistent
 | **WeatherApp 🌤️** | Angular + OpenWeatherMap | [Live](https://tornikekhutsishvili-weather-app.netlify.app/) | [Repo](https://github.com/TornikeKhutsishvili/WeatherApp) |
 | **Travelix 🌍** | HTML/CSS/Bootstrap | [Live](https://tornikekhutsishvili-travelix.netlify.app/) | [Repo](https://github.com/TornikeKhutsishvili/Travelix) |
 
-    </td>
-
-    <!-- GitHub Metrics Column -->
-    <td valign="top" width="50%">
-
 ### 📊 GitHub Metrics
 
-| GitHub Stats | GitHub Streak |
-|--------------|---------------|
-| ![Tornike's GitHub stats](https://github-readme-stats.vercel.app/api?username=TornikeKhutsishvili&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TornikeKhutsishvili&theme=radical) |
-
-    </td>
-  </tr>
-</table>
+| GitHub Stats |
+|--------------|
+| ![Tornike's GitHub stats](https://github-readme-stats.vercel.app/api?username=TornikeKhutsishvili&show_icons=true&theme=radical)
 
 ---
 
