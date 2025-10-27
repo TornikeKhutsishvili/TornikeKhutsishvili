@@ -15,15 +15,15 @@ Always exploring modern technologies 💻.
 ---
 
 ### 💼 Projects
+
 | Project | Tech Stack | Demo | GitHub |
 |---------|------------|------|--------|
-
-| TKShop |
-| MoviesTK |
-| Crypto-tracker |
-| WeatherApp 🌤️ | Angular + OpenWeatherMap | [Live](https://weatherapp-demo.netlify.app) | [Repo](https://github.com/TornikeKhutsishvili/WeatherApp) |
-| Travelo 🌍 | HTML/CSS/Bootstrap | [Live](https://travelo-demo.netlify.app) | [Repo](https://github.com/TornikeKhutsishvili/Travelo) |
-| Mico 🖥️ | PHP + SCSS + JS | [Live](https://mico-demo.000webhostapp.com) | [Repo](https://github.com/TornikeKhutsishvili/Mico) |
+| **TKShop 🛒** | Angular 20, TypeScript, SCSS | [Live](https://tornikekhutsishvili-ecommerce-tkshop.netlify.app/) | [Repo](https://github.com/TornikeKhutsishvili/ecommerce-site) |
+| **MoviesTK 🎬** | Angular 19+, TMDB API, Bootstrap | [Live](https://tornikekhutsishvili-movies.netlify.app/) | [Repo](https://github.com/TornikeKhutsishvili/Movies) |
+| **Crypto-tracker 💰** | Angular 19+, REST API, Chart.js | [Live](https://tornikekhutsishvili-crypto-tracker.netlify.app/) | [Repo](https://github.com/TornikeKhutsishvili/crypto-tracker) |
+| **WeatherApp 🌤️** | Angular + OpenWeatherMap | [Live](https://tornikekhutsishvili-weather-app.netlify.app/) | [Repo](https://github.com/TornikeKhutsishvili/WeatherApp) |
+| **Travelix 🌍** | HTML/CSS/Bootstrap | [Live](https://tornikekhutsishvili-travelix.netlify.app/) | [Repo](https://github.com/TornikeKhutsishvili/Travelix) |
+| **Mico 🖥️** | PHP + SCSS + JS | [Repo](https://github.com/TornikeKhutsishvili/Mico) |
 
 ---
 
