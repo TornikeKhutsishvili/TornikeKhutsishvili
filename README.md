@@ -32,10 +32,6 @@ Always exploring modern technologies 💻.
 |--------------|---------------|
 | ![Tornike's GitHub stats](https://github-readme-stats.vercel.app/api?username=TornikeKhutsishvili&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TornikeKhutsishvili&theme=radical) |
 
-| Contributions | Wakatime Coding Stats |
-|---------------|---------------------|
-| ![GitHub Contributions](https://github.com/TornikeKhutsishvili.png?tab=overview&from=2024-01-01&to=2025-12-31) | ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&theme=radical) |
-
 ---
 
 ### 📫 Connect with Me
