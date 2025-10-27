@@ -23,7 +23,6 @@ Always exploring modern technologies 💻.
 | **Crypto-tracker 💰** | Angular 19+, REST API, Chart.js | [Live](https://tornikekhutsishvili-crypto-tracker.netlify.app/) | [Repo](https://github.com/TornikeKhutsishvili/crypto-tracker) |
 | **WeatherApp 🌤️** | Angular + OpenWeatherMap | [Live](https://tornikekhutsishvili-weather-app.netlify.app/) | [Repo](https://github.com/TornikeKhutsishvili/WeatherApp) |
 | **Travelix 🌍** | HTML/CSS/Bootstrap | [Live](https://tornikekhutsishvili-travelix.netlify.app/) | [Repo](https://github.com/TornikeKhutsishvili/Travelix) |
-| **Mico 🖥️** | PHP + SCSS + JS | [Repo](https://github.com/TornikeKhutsishvili/Mico) |
 
 ---
 
