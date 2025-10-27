@@ -19,6 +19,13 @@ Driven by a desire to deepen my knowledge and apply best practices, I consistent
 
 ### 💼 Projects
 
+<table>
+  <tr>
+    <!-- Projects Column -->
+    <td valign="top" width="50%">
+      
+### 💼 Projects
+
 | Project | Tech Stack | Demo | GitHub |
 |---------|------------|------|--------|
 | **TKShop 🛒** | Angular 20, TypeScript, SCSS | [Live](https://tornikekhutsishvili-ecommerce-tkshop.netlify.app/) | [Repo](https://github.com/TornikeKhutsishvili/ecommerce-site) |
@@ -27,13 +34,20 @@ Driven by a desire to deepen my knowledge and apply best practices, I consistent
 | **WeatherApp 🌤️** | Angular + OpenWeatherMap | [Live](https://tornikekhutsishvili-weather-app.netlify.app/) | [Repo](https://github.com/TornikeKhutsishvili/WeatherApp) |
 | **Travelix 🌍** | HTML/CSS/Bootstrap | [Live](https://tornikekhutsishvili-travelix.netlify.app/) | [Repo](https://github.com/TornikeKhutsishvili/Travelix) |
 
----
+    </td>
+
+    <!-- GitHub Metrics Column -->
+    <td valign="top" width="50%">
 
 ### 📊 GitHub Metrics
 
 | GitHub Stats | GitHub Streak |
 |--------------|---------------|
-| ![Tornike's GitHub stats](https://github-readme-stats.vercel.app/api?username=TornikeKhutsishvili&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TornikeKhutsishvili&theme=radical)
+| ![Tornike's GitHub stats](https://github-readme-stats.vercel.app/api?username=TornikeKhutsishvili&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TornikeKhutsishvili&theme=radical) |
+
+    </td>
+  </tr>
+</table>
 
 ---
 
