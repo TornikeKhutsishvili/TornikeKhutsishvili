@@ -1,16 +1,19 @@
 # Hi there 👋, I'm Tornike
 
 ### About Me
-Motivated Front-End Developer | Angular (v19+) | React Learner @SkillWill  
-Passionate about crafting **clean, responsive, and user-friendly web interfaces** 🌐.  
-Always exploring modern technologies 💻.
+I am a motivated Junior Front-End Developer specializing in Angular (v19+) and currently expanding my skills in React at SkillWill University. I am passionate about creating **innovative, user-centered, and responsive web applications** with a strong focus on **UI/UX, accessibility, and maintainable code**.  
+
+Throughout my projects, I actively work with **HTML5, CSS3 (SCSS), Bootstrap 5, JavaScript (ES6+), TypeScript, Angular (v19+), RxJS and Signal**, translating Figma designs into clean, interactive, and performant interfaces. I also integrate APIs, manage state efficiently, and ensure cross-browser compatibility.  
+
+Driven by a desire to deepen my knowledge and apply best practices, I consistently explore **modern front-end technologies**, optimize workflows with Git & GitHub, and collaborate effectively in both individual and team projects. My goal is to transform **theoretical knowledge into practical, impactful experiences** that make web applications visually appealing, functional, and accessible.
 
 ---
 
 ### 🛠️ Skills
-- **Front-End:** Angular v19+, TypeScipt, JavaScript (ES6+), HTML5, CSS3, SCSS, Bootstrap
-- **Tools & Libraries:** Git, GitHub, RxJS, REST API, Figma → Code translation  
-- **Other:** Responsive Design, UI/UX, Cross-browser compatibility, Problem Solving
+- **Languages/Markup:** HTML5, CSS3 (SCSS), JavaScript (ES6+), TypeScript v5
+- **Frameworks/Libraries:** Angular v19+, RxJS, Bootstrap v5, NgRx (learning), React (learning) 
+- **Tools & Technologies:** Git, GitHub, REST API, Control Flow, Angular Signals, ngx-translate, Lazy Loading, Page Pagination  
+- **Other:** Responsive Design, Cross-Browser Compatibility, UI/UX Implementation, Figma → Code translation
 
 ---
 
