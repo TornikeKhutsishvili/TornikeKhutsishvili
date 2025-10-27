@@ -29,8 +29,11 @@ Always exploring modern technologies 💻.
 ### 📈 GitHub Stats
 ![Tornike's GitHub stats](https://github-readme-stats.vercel.app/api?username=TornikeKhutsishvili&show_icons=true&theme=radical)
 
-### 🏅 GitHub Trophies
-[![trophies](https://github-profile-trophy.vercel.app/?username=TornikeKhutsishvili&theme=radical)](https://github.com/TornikeKhutsishvili)
+### ⏱️ Coding Stats
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&theme=radical)
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TornikeKhutsishvili&theme=radical)
 
 ---
 
