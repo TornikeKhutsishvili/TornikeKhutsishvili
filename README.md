@@ -26,14 +26,13 @@ Always exploring modern technologies 💻.
 
 ---
 
-### 📈 GitHub Stats
-![Tornike's GitHub stats](https://github-readme-stats.vercel.app/api?username=TornikeKhutsishvili&show_icons=true&theme=radical)
+| GitHub Stats | GitHub Streak |
+|--------------|---------------|
+| [![Tornike's GitHub stats](https://github-readme-stats.vercel.app/api?username=TornikeKhutsishvili&show_icons=true&theme=radical)](https://github.com/TornikeKhutsishvili) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TornikeKhutsishvili&theme=radical)](https://github.com/TornikeKhutsishvili) |
 
-### ⏱️ Coding Stats
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&theme=radical)
-
-### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TornikeKhutsishvili&theme=radical)
+| Contributions | Wakatime Stats |
+|---------------|----------------|
+| [![GitHub Contributions](https://github.com/TornikeKhutsishvili.png?tab=overview&from=2024-01-01&to=2025-12-31)](https://github.com/TornikeKhutsishvili) | [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&theme=radical)](https://wakatime.com/@YOUR_USERNAME) |
 
 ---
 
