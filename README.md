@@ -42,5 +42,4 @@ Driven by a desire to deepen my knowledge and apply best practices, I consistent
 
 ### 📫 Connect with Me
 - LinkedIn: [https://www.linkedin.com/in/tornike-khutsishvili/](https://www.linkedin.com/in/tornike-khutsishvili/)  
-- GitHub: [https://github.com/TornikeKhutsishvili](https://github.com/TornikeKhutsishvili)  
 - Portfolio: [https://tornikekhutsishvili.netlify.app/](https://tornikekhutsishvili.netlify.app/)
