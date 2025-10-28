@@ -1,9 +1,7 @@
 # Hi there 👋, I'm Tornike
 
 ### About Me
-I am a motivated Junior Front-End Developer specializing in Angular (v19+) and currently expanding my skills in React at SkillWill University. I am passionate about creating **innovative, user-centered, and responsive web applications** with a strong focus on **UI/UX, accessibility, and maintainable code**.  
-
-Throughout my projects, I actively work with **HTML5, CSS3 (SCSS), Bootstrap 5, JavaScript (ES6+), TypeScript, Angular (v19+), RxJS and Signal**, translating Figma designs into clean, interactive, and performant interfaces. I also integrate APIs, manage state efficiently, and ensure cross-browser compatibility.  
+I am a motivated Junior Front-End Developer specializing in Angular (v19+) and currently expanding my skills in React at SkillWill University. I am passionate about creating **innovative, user-centered, and responsive web applications** with a strong focus on **UI/UX, accessibility, and maintainable code**.
 
 Driven by a desire to deepen my knowledge and apply best practices, I consistently explore **modern front-end technologies**, optimize workflows with Git & GitHub, and collaborate effectively in both individual and team projects. My goal is to transform **theoretical knowledge into practical, impactful experiences** that make web applications visually appealing, functional, and accessible.
 
@@ -11,11 +9,11 @@ Driven by a desire to deepen my knowledge and apply best practices, I consistent
 
 ### 🛠️ Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,aos,js,ts,angular,rxjs,postman,npm,vscode,php,git,github,figma,prettier,netlify,vercel" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,angular,rxjs,postman,npm,vscode,php,git,github,figma,prettier,netlify,vercel" alt="Tech Stack" />
 </p>
 
 🎨 Other Skills
-<p align="center"> Responsive Design • Cross-Browser Compatibility • UI/UX Implementation • cdnjs • swiperjs • Angular CLI • Angular Signals • Control Flow • REST API Integration • ngx-translate • Lazy Loading • Pagination • TypeScript OOP • Git Workflow (branching, merging, pull) • Figma → Code Translation • Code Refactoring & Maintainability • Deployment </p>
+<p align="center"> Responsive Design • Cross-Browser Compatibility • UI/UX Implementation • aos animation • cdnjs • swiperjs • Angular CLI • Angular Signals • Control Flow • REST API Integration • ngx-translate • Lazy Loading • Pagination • TypeScript OOP • Git Workflow (branching, merging, pull) • Figma → Code Translation • Code Refactoring & Maintainability • Deployment </p>
 
 ---
       
