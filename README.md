@@ -10,10 +10,27 @@ Driven by a desire to deepen my knowledge and apply best practices, I consistent
 ---
 
 ### 🛠️ Skills
-- **Languages/Markup:** HTML5, CSS3 (SCSS), JavaScript (ES6+), TypeScript v5
-- **Frameworks/Libraries:** Angular v19+, RxJS, Bootstrap v5, NgRx (learning), React (learning) 
-- **Tools & Technologies:** Git, GitHub, REST API, Control Flow, Angular Signals, ngx-translate, Lazy Loading, Page Pagination  
-- **Other:** Responsive Design, Cross-Browser Compatibility, UI/UX Implementation, Figma → Code translation
+🧩 Languages & Markup
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts" alt="Languages" /> </p>
+⚙️ Frameworks & Libraries
+<p align="left"> <img src="https://skillicons.dev/icons?i=angular,rxjs,bootstrap,react" alt="Frameworks" /> </p>
+🧰 Tools & Technologies
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,figma" alt="Tools" /> </p>
+🎨 Other Skills
+
+Responsive Design
+
+Cross-Browser Compatibility
+
+UI/UX Implementation
+
+Control Flow & Signals
+
+REST API Integration
+
+ngx-translate, Lazy Loading, Pagination
+
+Figma → Code Translation
 
 ---
       
