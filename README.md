@@ -10,10 +10,14 @@ Driven by a desire to deepen my knowledge and apply best practices, I consistent
 ---
 
 ### 🛠️ Skills
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,angular,rxjs,bootstrap,git,github,figma" alt="Languages" />
+<p align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,angular,rxjs,ngrx,api,npm,vscode,git,github,figma" alt="Tech Stack" />
+</p>
 
 🎨 Other Skills
-Responsive Design | Cross-Browser Compatibility | UI/UX Implementation | Control Flow & Signals | REST API Integration |ngx-translate | Lazy Loading | Pagination
+<p align="center">
+      Responsive Design | Cross-Browser Compatibility | UI/UX Implementation | Control Flow & Signals | REST API Integration |ngx-translate | Lazy Loading | Pagination
+</p>
 
 ---
       
