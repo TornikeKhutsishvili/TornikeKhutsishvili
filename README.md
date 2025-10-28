@@ -21,11 +21,11 @@ Driven by a desire to deepen my knowledge and apply best practices, I consistent
 
 | Project | Tech Stack | Demo | GitHub |
 |---------|------------|------|--------|
-| **TKShop 🛒** | Angular 20, TypeScript, SCSS | [Live](https://tornikekhutsishvili-ecommerce-tkshop.netlify.app/) | [Repo](https://github.com/TornikeKhutsishvili/ecommerce-site) |
-| **MoviesTK 🎬** | Angular 19+, TMDB API, Bootstrap | [Live](https://tornikekhutsishvili-movies.netlify.app/) | [Repo](https://github.com/TornikeKhutsishvili/Movies) |
-| **Crypto-tracker 💰** | Angular 19+, REST API, Chart.js | [Live](https://tornikekhutsishvili-crypto-tracker.netlify.app/) | [Repo](https://github.com/TornikeKhutsishvili/crypto-tracker) |
-| **WeatherApp 🌤️** | Angular + OpenWeatherMap | [Live](https://tornikekhutsishvili-weather-app.netlify.app/) | [Repo](https://github.com/TornikeKhutsishvili/WeatherApp) |
-| **Travelix 🌍** | HTML/CSS/Bootstrap | [Live](https://tornikekhutsishvili-travelix.netlify.app/) | [Repo](https://github.com/TornikeKhutsishvili/Travelix) |
+| **TKShop 🛒** | Angular 20, TypeScript, HTML5, CSS3 (SCSS), Bootstrap 5, RxJs, Signals, API, Git, GitHub | [Live](https://tornikekhutsishvili-ecommerce-tkshop.netlify.app/) | [Repo](https://github.com/TornikeKhutsishvili/ecommerce-site) |
+| **MoviesTK 🎬** | Angular 19+, TypeScript, HTML5, CSS3, Bootstrap 5, RxJs, Signals, API, Git, GitHub, TMDB API | [Live](https://tornikekhutsishvili-movies.netlify.app/) | [Repo](https://github.com/TornikeKhutsishvili/Movies) |
+| **Crypto-tracker 💰** | Angular 19, TypeScript, HTML5, CSS3, Bootstrap 5, RxJs, API, Git, GitHub, Chart.js | [Live](https://tornikekhutsishvili-crypto-tracker.netlify.app/) | [Repo](https://github.com/TornikeKhutsishvili/crypto-tracker) |
+| **WeatherApp 🌤️** | Angular 19, TypeScript, HTML5, CSS3, Bootstrap 5, RxJs, OpenWeatherMap API, Git, GitHub | [Live](https://tornikekhutsishvili-weather-app.netlify.app/) | [Repo](https://github.com/TornikeKhutsishvili/WeatherApp) |
+| **Travelix 🌍** | HTML5, CSS3, Bootstrap, Git, GitHub | [Live](https://tornikekhutsishvili-travelix.netlify.app/) | [Repo](https://github.com/TornikeKhutsishvili/Travelix) |
 
 ### 📊 GitHub Metrics
 
