@@ -10,12 +10,12 @@ Driven by a desire to deepen my knowledge and apply best practices, I consistent
 ---
 
 ### 🛠️ Skills
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts" alt="Languages" /> </p>
-<p align="left"> <img src="https://skillicons.dev/icons?i=angular,rxjs,bootstrap" alt="Frameworks" /> </p>
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,figma" alt="Tools" /> </p>
-🎨 Other Skills
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=angular,rxjs,bootstrap" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=git,github,figma" alt="Tools" />
 
-Responsive Design | Cross-Browser Compatibility | UI/UX Implementation | Control Flow & Signals | REST API Integration |ngx-translate | Lazy Loading | Pagination | Figma → Code Translation
+🎨 Other Skills
+Responsive Design | Cross-Browser Compatibility | UI/UX Implementation | Control Flow & Signals | REST API Integration |ngx-translate | Lazy Loading | Pagination
 
 ---
       
