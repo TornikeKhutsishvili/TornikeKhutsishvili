@@ -33,8 +33,8 @@ Driven by a desire to deepen my knowledge and apply best practices, I consistent
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=TornikeKhutsishvili&show_icons=true&theme=radical&hide_border=true&width=350&height=200" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TornikeKhutsishvili&layout=compact&theme=radical&hide_border=true&width=350&height=200" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=TornikeKhutsishvili&show_icons=true&theme=radical&hide_border=true&width=350" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TornikeKhutsishvili&layout=compact&theme=radical&hide_border=true&width=350" /></td>
   </tr>
 </table>
 
