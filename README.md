@@ -10,8 +10,8 @@ Driven by a desire to deepen my knowledge and apply best practices, I consistent
 ---
 
 ### 🛠️ Skills
-<p align="left center">
-      <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,angular,angular-cli,rxjs,ngrx,postman,npm,vscode,php,git,github,figma,prettier,netlify,vercel" alt="Tech" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,angular,rxjs,postman,npm,vscode,php,git,github,figma,prettier,netlify,vercel" height="48" style="margin: 0 10px;" alt="Tech Stack" />
 </p>
 
 🎨 Other Skills
