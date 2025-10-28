@@ -27,11 +27,21 @@ Driven by a desire to deepen my knowledge and apply best practices, I consistent
 | **WeatherApp 🌤️** | Angular 19, TypeScript, HTML5, CSS3, Bootstrap 5, RxJs, OpenWeatherMap API, Git, GitHub | [Live](https://tornikekhutsishvili-weather-app.netlify.app/) | [Repo](https://github.com/TornikeKhutsishvili/WeatherApp) |
 | **Travelix 🌍** | HTML5, CSS3, Bootstrap, Git, GitHub | [Live](https://tornikekhutsishvili-travelix.netlify.app/) | [Repo](https://github.com/TornikeKhutsishvili/Travelix) |
 
+---
+
 ### 📊 GitHub Metrics
 
 | GitHub Stats |
-|--------------|
-| ![Tornike's GitHub stats](https://github-readme-stats.vercel.app/api?username=TornikeKhutsishvili&show_icons=true&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=TornikeKhutsishvili&show_icons=true&theme=radical" alt="Tornike's GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TornikeKhutsishvili&layout=compact&theme=radical" alt="Tornike's Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
