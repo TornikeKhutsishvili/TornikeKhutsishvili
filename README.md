@@ -11,11 +11,11 @@ Driven by a desire to deepen my knowledge and apply best practices, I consistent
 
 ### 🛠️ Skills
 <p align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,angular,angular-cli,rxjs,ngrx,postman,npm,vscode,php,git,github,figma,cdnjs,swiperjs,prettier,netlify,vercel" alt="Tech Stack" />
+      <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,angular,angular-cli,rxjs,ngrx,postman,npm,vscode,php,git,github,figma,swiper,prettier,netlify,vercel" alt="Tech Stack" />
 </p>
 
 🎨 Other Skills
-<p align="center"> Responsive Design • Cross-Browser Compatibility • UI/UX Implementation • Angular Signals • Control Flow • REST API Integration • ngx-translate • Lazy Loading • Pagination • TypeScript OOP • Git Workflow (branching, merging, pull) • Figma → Code Translation • Code Refactoring & Maintainability • Deployment </p>
+<p align="center"> Responsive Design • Cross-Browser Compatibility • UI/UX Implementation • cdnjs • Angular Signals • Control Flow • REST API Integration • ngx-translate • Lazy Loading • Pagination • TypeScript OOP • Git Workflow (branching, merging, pull) • Figma → Code Translation • Code Refactoring & Maintainability • Deployment </p>
 
 ---
       
