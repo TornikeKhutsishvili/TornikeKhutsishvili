@@ -31,8 +31,7 @@ Driven by a desire to deepen my knowledge and apply best practices, I consistent
 
 ### 📊 GitHub Metrics
 
-| GitHub Stats |
-<table>
+<table style="width: 100%">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=TornikeKhutsishvili&show_icons=true&theme=radical" alt="Tornike's GitHub stats" />
