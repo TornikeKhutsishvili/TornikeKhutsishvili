@@ -40,6 +40,8 @@ Driven by a desire to deepen my knowledge and apply best practices, I consistent
 
 ---
 
+## My Certificates
+
 [Tornike khutsishvili.pdf](https://github.com/user-attachments/files/23981393/Tornike.khutsishvili.pdf)
 
 [KHUTSISHVILI TORNIKE.pdf](https://github.com/user-attachments/files/23981395/KHUTSISHVILI.TORNIKE.pdf)
