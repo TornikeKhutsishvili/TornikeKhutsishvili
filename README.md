@@ -9,7 +9,7 @@ Driven by a desire to deepen my knowledge and apply best practices, I consistent
  
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,angular,rxjs,tailwind,bootstrap,python,flask,sqlite,git,github,figma,vscode,vite,axios,netlify,vercel" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,angular,rxjs,tailwind,bootstrap,python,flask,sqlite,git,github,figma,vscode,vite,netlify,vercel,onrender" alt="Tech Stack" />
 </p>
 
 #### 🎨 Frontend
