@@ -9,7 +9,7 @@ Driven by a desire to deepen my knowledge and apply best practices, I consistent
 
 ### 🛠️ Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,html,css,sass,tailwind,bootstrap,js,ts,rxjs,redux,vscode,git,github,figma,netlify,vercel" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=angular,react,html,css,sass,tailwind,bootstrap,js,ts,rxjs,redux,python,flask,jinja,vscode,git,github,figma,netlify,vercel" alt="Tech Stack" />
 </p>
 
 🎨 Other Skills
@@ -24,6 +24,7 @@ Driven by a desire to deepen my knowledge and apply best practices, I consistent
 | **Unsplash tk-gallery 📷** | React, TypeScript, Redux toolkit, React Query (tanstack), React Router, Vite, Axios, Tailwind CSS, Git, GitHub | [Live](https://unsplash-tk-gallery.vercel.app/) | [Repo](https://github.com/TornikeKhutsishvili/unsplash-tk-gallery) |
 | **TKShop 🛒** | Angular 20, TypeScript, SCSS, Bootstrap 5, RxJs, Signals, API, Git, GitHub | [Live](https://tornikekhutsishvili-ecommerce-tkshop.netlify.app/) | [Repo](https://github.com/TornikeKhutsishvili/ecommerce-site) |
 | **Wanderlust ✦** | React, TypeScript, Vite, Tailwind CSS, Redux toolkit, React Router, Hooks, i18next, Axios, dnd kit, Git, GitHub | [Live](https://wanderlust-tk.vercel.app/) | [Repo](https://github.com/TornikeKhutsishvili/wanderlust) |
+| **Jobboard 📝** | Python, Flask, Flask-SQLAlchemy, Flask-bcrypt, Flask-WTF, Flask-Login, Jinja2, Pillow, pytest, logging, aiohttp, gunicorn | [Live](https://jobboard-tefa.onrender.com/) | [Repo](https://github.com/TornikeKhutsishvili/jobboard) |
 | **MoviesTK 🎬** | Angular 19+, TypeScript, Bootstrap 5, RxJs, Signals, TMDB API, Git, GitHub | [Live](https://tornikekhutsishvili-movies.netlify.app/) | [Repo](https://github.com/TornikeKhutsishvili/Movies) |
 | **Crypto-tracker 💰** | Angular 19, TypeScript, Bootstrap 5, RxJs, API, Git, GitHub, Chart.js | [Live](https://tornikekhutsishvili-crypto-tracker.netlify.app/) | [Repo](https://github.com/TornikeKhutsishvili/crypto-tracker) |
 | **WeatherApp 🌤️** | Angular 19, TypeScript, Bootstrap 5, RxJs, OpenWeatherMap API, Git, GitHub | [Live](https://tornikekhutsishvili-weather-app.netlify.app/) | [Repo](https://github.com/TornikeKhutsishvili/WeatherApp) |
