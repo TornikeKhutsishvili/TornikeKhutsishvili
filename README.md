@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Tornike
 
 ### About Me
-I am a motivated Junior Front-End Developer specializing in Angular (v19+) and React. I am passionate about creating **innovative, user-centered, and responsive web applications** with a strong focus on **UI/UX, accessibility, and maintainable code**.
+I am a motivated Fullstack Developer specializing in Angular & React, and Python (Flask). I am passionate about creating **innovative, user-centered, and responsive web applications** with a strong focus on **UI/UX, accessibility, and maintainable code**.
 
 Driven by a desire to deepen my knowledge and apply best practices, I consistently explore **modern front-end technologies**, optimize workflows with Git & GitHub, and collaborate effectively in both individual and team projects. My goal is to transform **theoretical knowledge into practical, impactful experiences** that make web applications visually appealing, functional, and accessible.
 
@@ -9,7 +9,7 @@ Driven by a desire to deepen my knowledge and apply best practices, I consistent
 
 ### 🛠️ Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,html,css,sass,tailwind,bootstrap,js,ts,rxjs,redux,python,flask,jinja2,vscode,git,github,figma,netlify,vercel" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=angular,react,html,css,sass,tailwind,bootstrap,js,ts,rxjs,redux,python,flask,vscode,git,github,figma,netlify,vercel" alt="Tech Stack" />
 </p>
 
 🎨 Other Skills
@@ -36,8 +36,16 @@ Driven by a desire to deepen my knowledge and apply best practices, I consistent
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=TornikeKhutsishvili&show_icons=true&theme=radical&hide_border=true&width=350" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TornikeKhutsishvili&layout=compact&theme=radical&hide_border=true&width=350" /></td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=TornikeKhutsishvili&show_icons=true&theme=radical&hide_border=true&width=350"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=TornikeKhutsishvili&layout=compact&theme=radical&hide_border=true&width=350"
+      />
+    </td>
   </tr>
 </table>
 
@@ -45,7 +53,10 @@ Driven by a desire to deepen my knowledge and apply best practices, I consistent
 
 ## My Certificates
 
-[Tornike khutsishvili.pdf](https://github.com/user-attachments/files/23981393/Tornike.khutsishvili.pdf)
+[Tornike khutsishvili_4.pdf](https://github.com/user-attachments/files/23981393/Tornike.khutsishvili.pdf)
+[Tornike khutsishvili_3.pdf](https://github.com/user-attachments/files/23981393/Tornike.khutsishvili.pdf)
+[Tornike khutsishvili_2.pdf](https://github.com/user-attachments/files/23981393/Tornike.khutsishvili.pdf)
+[Tornike khutsishvili_1.pdf](https://github.com/user-attachments/files/23981393/Tornike.khutsishvili.pdf)
 
 
 ---
