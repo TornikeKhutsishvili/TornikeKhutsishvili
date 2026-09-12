@@ -11,6 +11,7 @@ Driven by a desire to deepen my knowledge and apply best practices, I consistent
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,angular,rxjs,tailwind,bootstrap,python,flask,sqlite,git,github,figma,vscode,vite,netlify,vercel" alt="Tech Stack" />
 </p>
+
 #### 🎨 Frontend
 `HTML5` `CSS3` `Sass/SCSS` `JavaScript (ES6+)` `TypeScript` `React` `React Router` `Redux Toolkit` `React Query (TanStack)` `Angular` `RxJS` `Angular Signals` `Angular Control Flow` `Tailwind CSS` `Bootstrap` `Vite` `Framer Motion` `i18next / ngx-translate` `dnd kit` `Chart.js` `Responsive Design` `Cross-Browser Compatibility`
  
@@ -55,10 +56,10 @@ Driven by a desire to deepen my knowledge and apply best practices, I consistent
  
 | Certificate | Link |
 |---|---|
-| Front-End (React) | [View PDF](./certificates/frontend-react.pdf) |
-| Back-End (Python with Flask) | [View PDF](./certificates/backend-python-flask.pdf) |
-| Back-End (Python) | [View PDF](./certificates/backend-python.pdf) |
-| Programming from Zero | [View PDF](./certificates/programming-from-zero.pdf) |
+| Front-End (React) | [View PDF]([./certificates/frontend-react.pdf]) |
+| Back-End (Python with Flask) | [View PDF]([./certificates/backend-python-flask.pdf]) |
+| Back-End (Python) | [View PDF]([./certificates/backend-python.pdf]) |
+| Programming from Zero | [View PDF]([./certificates/programming-from-zero.pdf]) |
  
 ---
  
