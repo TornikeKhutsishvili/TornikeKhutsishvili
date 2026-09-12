@@ -56,10 +56,10 @@ Driven by a desire to deepen my knowledge and apply best practices, I consistent
  
 | Certificate | Link |
 |---|---|
-| Front-End (React) | [View PDF]([./certificates/frontend-react.pdf]) |
-| Back-End (Python with Flask) | [View PDF]([./certificates/backend-python-flask.pdf]) |
-| Back-End (Python) | [View PDF]([./certificates/backend-python.pdf]) |
-| Programming from Zero | [View PDF]([./certificates/programming-from-zero.pdf]) |
+| Front-End (React) | [View PDF]([./certificates/blob/main/frontend-react.pdf]) |
+| Back-End (Python with Flask) | [View PDF]([./certificates/blob/main/backend-python-flask.pdf]) |
+| Back-End (Python) | [View PDF]([./certificates/blob/main/backend-python.pdf]) |
+| Programming from Zero | [View PDF]([./certificates/blob/main/programming-from-zero.pdf]) |
  
 ---
  
