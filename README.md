@@ -56,10 +56,10 @@ Driven by a desire to deepen my knowledge and apply best practices, I consistent
  
 | Certificate | Link |
 |---|---|
-| Front-End (React) | [View PDF]([./frontend-react.pdf]) |
-| Back-End (Python with Flask) | [View PDF]([./backend-python-flask.pdf]) |
-| Back-End (Python) | [View PDF]([./backend-python.pdf]) |
-| Programming from Zero | [View PDF]([./programming-from-zero.pdf]) |
+| Front-End (React) | [View PDF](https://github.com/TornikeKhutsishvili/certificates/blob/main/frontend-react.pdf) |
+| Back-End (Python with Flask) | [View PDF](https://github.com/TornikeKhutsishvili/certificates/blob/main/backend-python-flask.pdf) |
+| Back-End (Python) | [View PDF](https://github.com/TornikeKhutsishvili/certificates/blob/main/backend-python.pdf) |
+| Programming from Zero | [View PDF](https://github.com/TornikeKhutsishvili/certificates/blob/main/programming-from-zero.pdf) |
  
 ---
  
