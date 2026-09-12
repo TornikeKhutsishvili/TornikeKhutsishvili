@@ -9,17 +9,17 @@ Driven by a desire to deepen my knowledge and apply best practices, I consistent
  
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,angular,rxjs,tailwind,bootstrap,python,flask,sqlite,git,github,figma,vscode,vite,netlify,vercel" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,angular,rxjs,tailwind,bootstrap,python,flask,sqlite,git,github,figma,vscode,vite,axios,netlify,vercel" alt="Tech Stack" />
 </p>
 
 #### 🎨 Frontend
-`HTML5` `CSS3` `Sass/SCSS` `JavaScript (ES6+)` `TypeScript` `React` `React Router` `Redux Toolkit` `React Query (TanStack)` `Angular` `RxJS` `Angular Signals` `Angular Control Flow` `Tailwind CSS` `Bootstrap` `Vite` `Framer Motion` `i18next / ngx-translate` `dnd kit` `Chart.js` `Responsive Design` `Cross-Browser Compatibility`
+`HTML5` `CSS3` `Sass/SCSS` `JavaScript (ES6+)` `TypeScript` `React` `React Router` `Redux Toolkit` `React Query (TanStack)` `Angular` `RxJS` `Angular Signals` `Angular Control Flow` `Tailwind CSS` `Bootstrap` `Vite` `Axios` `GraphQL` `i18next / ngx-translate` `dnd kit` `Chart.js` `Responsive Design` `Cross-Browser Compatibility`
  
 #### ⚙️ Backend
-`Python` `Flask` `Flask-SQLAlchemy` `Flask-Login` `Flask-WTF` `Flask-Bcrypt` `Jinja2` `REST API Design & Integration` `Pillow` `gunicorn` `pytest`
+`Python` `Flask` `Flask-SQLAlchemy` `Flask-Login` `Flask-WTF` `Flask-Bcrypt` `Jinja2` `REST API Design & Integration` `Pillow` `gunicorn` `pytest` `OOP`
  
 #### 🧰 Tools & Practices
-`Git & GitHub` (branching, merging, PR workflow) `Figma → Code Translation` `Code Refactoring & Maintainability` `Deployment (Netlify, Vercel, Render)` `TypeScript OOP` `Lazy Loading` `Pagination` `AOS Animation` `SwiperJS` `Prettier`
+`Git & GitHub` (branching, merging, PR workflow) `Figma → Code Translation` `Code Refactoring & Maintainability` `Deployment (Netlify, Vercel, Render)` `TypeScript OOP` `Lazy Loading` `Pagination` `AOS Animation` `Prettier`
  
 ---
  
